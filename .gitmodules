@@ -1,0 +1,6 @@
+[submodule "Pitch-Perfect"]
+	path = Pitch-Perfect
+	url = https://github.com/jovito-royeca/Pitch-Perfect
+[submodule "MemeMe"]
+	path = MemeMe
+	url = https://github.com/jovito-royeca/MemeMe
