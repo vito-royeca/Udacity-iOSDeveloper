@@ -7,6 +7,7 @@
 ## Cloning
 
 git clone --recursive https://github.com/jovito-royeca/Udacity-iOSDeveloper.git
+
 cd Udacity-iOSDeveloper
 
 
