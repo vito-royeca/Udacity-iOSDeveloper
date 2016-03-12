@@ -1,4 +1,4 @@
-# Udacity iOS Developer Nanodegree projects 
+# Udacity iOS Developer Nanodegree Projects 
 
 * <a href="https://github.com/jovito-royeca/Pitch-Perfect">Pitch Perfect</a>
 
