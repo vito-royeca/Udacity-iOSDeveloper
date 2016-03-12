@@ -4,6 +4,8 @@
 
 * <a href="https://github.com/jovito-royeca/MemeMe">MemeMe</a>
 
+* <a href="https://github.com/jovito-royeca/On-The-Map">On the Map</a>
+
 ## Cloning
 
 git clone --recursive https://github.com/jovito-royeca/Udacity-iOSDeveloper.git
