@@ -4,6 +4,6 @@
 [submodule "MemeMe"]
 	path = MemeMe
 	url = https://github.com/jovito-royeca/MemeMe
-[submodule "On the Map"]
-        path = On-The-Map 
-        url = https://github.com/jovito-royeca/On-The-Map
+[submodule "On-The-Map"]
+	path = On-The-Map
+	url = https://github.com/jovito-royeca/On-The-Map
