@@ -7,3 +7,6 @@
 [submodule "On-The-Map"]
 	path = On-The-Map
 	url = https://github.com/jovito-royeca/On-The-Map
+[submodule "Virtual-Tourist"]
+	path = Virtual-Tourist
+	url = https://github.com/jovito-royeca/Virtual-Tourist.git
