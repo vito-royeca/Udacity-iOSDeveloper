@@ -18,6 +18,10 @@ Allows users to share their location and a URL with their fellow students.
 
 Graded with <a href="https://review.udacity.com/#!/reviews/116438/shared" target="_blank">Exceeds Specifications</a>.
 
+## <a href="https://github.com/jovito-royeca/Virtual-Tourist" border="0"><img src="assets/icons/VirtualTourist_120.png" width="10%" height="auto"/></a> <a href="https://github.com/jovito-royeca/Virtual-Tourist">Virtual Tourist</a>
+
+Downloads and stores images from Flickr.
+
 ## Cloning
 
 git clone --recursive https://github.com/jovito-royeca/Udacity-iOSDeveloper.git
