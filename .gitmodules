@@ -10,3 +10,6 @@
 [submodule "Virtual-Tourist"]
 	path = Virtual-Tourist
 	url = https://github.com/jovito-royeca/Virtual-Tourist.git
+[submodule "Cineko"]
+	path = Cineko
+	url = https://github.com/jovito-royeca/Cineko.git

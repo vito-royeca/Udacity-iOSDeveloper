@@ -22,6 +22,8 @@ Graded with <a href="https://review.udacity.com/#!/reviews/116438/shared" target
 
 Downloads and stores images from Flickr.
 
+Graded with <a href="https://review.udacity.com/#!/reviews/125833/shared" target="_blank">Exceeds Specifications</a>.
+
 ## Cloning
 
 git clone --recursive https://github.com/jovito-royeca/Udacity-iOSDeveloper.git
