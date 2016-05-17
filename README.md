@@ -28,7 +28,7 @@ Graded with [Exceeds Specifications](https://review.udacity.com/#!/reviews/12583
 
 An iOS app that connects to themoviedb.org. A capstone project.
 
-Graded with [Meets Specifications](https://review.udacity.com/#!/reviews/147644/shared)
+Graded with [Meets Specifications](https://review.udacity.com/#!/reviews/147644/shared).
 
 ## Cloning
 ```
