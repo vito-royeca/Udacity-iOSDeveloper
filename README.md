@@ -22,11 +22,13 @@ Graded with [Exceeds Specifications](https://review.udacity.com/#!/reviews/11643
 
 Downloads and stores images from Flickr.
 
-Graded with <a href="https://review.udacity.com/#!/reviews/125833/shared" target="_blank">Exceeds Specifications</a>.
+Graded with [Exceeds Specifications](https://review.udacity.com/#!/reviews/125833/shared).
 
 ## ![](https://github.com/jovito-royeca/Udacity-iOSDeveloper/blob/master/assets/icons/Cineko_120.png) [Cine Ko!](https://github.com/jovito-royeca/Cineko)
 
 An iOS app that connects to themoviedb.org. A capstone project.
+
+Graded with [Meets Specifications](https://review.udacity.com/#!/reviews/147644/shared)
 
 ## Cloning
 ```
