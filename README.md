@@ -1,6 +1,6 @@
 # Udacity iOS Developer Nanodegree Projects 
 
-## ![](https://github.com/jovito-royeca/Udacity-iOSDeveloper/blob/master/assets/icons/MemeGenerator_120.png) [Pitch Perfect](https://github.com/jovito-royeca/Pitch-Perfect)
+## ![](https://github.com/jovito-royeca/Udacity-iOSDeveloper/blob/master/assets/icons/PitchPerfect_120.png) [Pitch Perfect](https://github.com/jovito-royeca/Pitch-Perfect)
 
 Records voice and plays it back with effects.
 
